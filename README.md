@@ -4,7 +4,7 @@ Características destacadas:
 
 - Modal
 - Modal con formulario de contacto
-- fa-spin de Fontawesome
+- fa-spin de Fontawesome (el ícono de la tuerca gira)
 - Configuraciones responsives
 
 ![Página de inicio](https://raw.githubusercontent.com/CarolinaRamon/bootstrap-sitio-web/main/assets/inicio.png "Página de inicio")
