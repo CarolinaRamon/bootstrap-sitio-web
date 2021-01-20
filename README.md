@@ -2,18 +2,13 @@
 
 Características destacadas:
 
-```
-Modal
-```
+- Modal
+- Modal con formulario de contacto
+- fa-spin de Fontawesome
+- Configuraciones responsives
 
-```
-Modal con formulario de contacto
-```
+![Página de inicio](https://raw.githubusercontent.com/CarolinaRamon/bootstrap-sitio-web/main/assets/inicio.jpg)
 
-```
-fa-spin de Fontawesome
-```
+![Botón Home](https://raw.githubusercontent.com/CarolinaRamon/bootstrap-sitio-web/main/assets/home.jpg "Botón Home")
 
-```
-Configuraciones responsives
-```
+![Botón Contacto](https://raw.githubusercontent.com/CarolinaRamon/bootstrap-sitio-web/main/assets/contacto.jpg "Botón Contacto")
